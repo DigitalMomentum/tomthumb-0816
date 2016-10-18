@@ -2,6 +2,7 @@
 layout: child_layout/text_page
 title: Our Model
 permalink: /our-model/
+hero: video-4
 
 tagline: We tell stories to communicate. The very best stories are interlaced with emotion and information.
 supporting_image: /assets/img/content/eye-q.png
