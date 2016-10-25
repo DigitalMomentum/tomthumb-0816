@@ -69,7 +69,7 @@ $(document).ready(function() {
         responsive: true,
         touchEnabled: true,
         speed: 2000,
-        pause: 8000,
+        pause: 12000,
         slideMargin: 0,
         minSlides: 1,
         controls: false,
@@ -77,7 +77,8 @@ $(document).ready(function() {
         prevText: "&#xf104;",
         infiniteLoop: false,
         useCSS: true,
-        pager: true
+        pager: true,
+        autoHover: true
     });
 
     //-----------------------------------------------------------------

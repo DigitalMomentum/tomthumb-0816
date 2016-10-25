@@ -70,7 +70,7 @@ layout: base__page
  <section class="section section-light">
  	<div class="container">
  		<h2 class="m-b-1">Testimonials</h2>
- 		<div class="carousel">
+ 		<div class="carousel" data-interval="1000" data-pause="hover">
  			{% for item in testimonials limit: 8 %}
  			<blockquote>
 				<p class="is-quote">{{ item.body }}</p>
